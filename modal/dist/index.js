@@ -1,13 +1,14 @@
 "use strict";
 
 Object.defineProperty(exports, "__esModule", {
-  value: true
+    value: true
 });
 Object.defineProperty(exports, "Modal", {
-  enumerable: true,
-  get: function get() {
-    return _modal.default;
-  }
+    enumerable: true,
+    get: function get() {
+        return _Modal.default;
+    }
 });
-var _modal = _interopRequireDefault(require("./components/modal"));
+var _Modal = _interopRequireDefault(require("./components/Modal"));
+
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
