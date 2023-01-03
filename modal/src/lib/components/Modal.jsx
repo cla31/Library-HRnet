@@ -1,3 +1,5 @@
+import React from 'react'
+import PropTypes from 'prop-types';
 import './styles/modal.css'
 
 const Modal = ({ message, closeModal }) => {
@@ -26,3 +28,12 @@ const Modal = ({ message, closeModal }) => {
   )
 }
 export default Modal
+
+Modal.propTypes = {
+  message: PropTypes.string.isRequired,
+  closeModal: PropTypes.func.isRequired
+}
+
+
+
+
