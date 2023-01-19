@@ -1,8 +1,10 @@
 # MODALE CUSTOMIZABLE LIBRARY (Plugin in React)
 
-A simple React component easily customizable.
+A simple React component easily customizable. \
+
 NPM package is available here : \
 `https://www.npmjs.com/package/modal-lib-claire-marie`\
+
 Github repository is available here : \
 `https://github.com/cla31/Library-HRnet/tree/main/modal-lib`
 
