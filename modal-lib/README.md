@@ -3,7 +3,7 @@
 **A simple React component easily customizable.** 
 
 NPM package is available here : \
-`https://www.npmjs.com/package/modal-lib-claire-marie`\
+`https://www.npmjs.com/package/modal-lib-claire-marie`
 
 
 Github repository is available here : \
