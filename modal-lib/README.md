@@ -1,6 +1,8 @@
 # MODALE CUSTOMIZABLE LIBRARY (Plugin in React)
 
 A simple React component easily customizable.
+NPM package is available here : `https://www.npmjs.com/package/modal-lib-claire-marie`
+Github repository is available here : `https://github.com/cla31/Library-HRnet/tree/main/modal-lib`
 
 ---
 
@@ -17,6 +19,7 @@ Import this component in your project:
 `import { Modal } from 'modal-lib-claire-marie'`
 
 Example of using the component:
+
  `<Modal
     messageModal={'Employee created!'}
     messageBouton={'Close'}
@@ -28,7 +31,7 @@ Example of using the component:
     ImageModalStyle={{ width: '100px', height: '100px' }}
   />`
 
-  
+
 
 
 
